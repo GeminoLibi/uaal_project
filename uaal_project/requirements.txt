@@ -1,7 +1,0 @@
-pywinauto
-transformers
-accelerate
-torch
-playwright
-beautifulsoup4
-requests
